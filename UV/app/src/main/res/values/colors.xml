@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#008577</color>
+    
+    <!--- colores principales-->
+    <color name="azul">#208C8C</color>
+    <color name="verde">#74B748</color>
+    <color name="naranja">#FF9100</color>
+    <color name="transparente">#16FFFFFF</color>
+
+    <!--- Colores login-->
+    <color name="gris">#B6B6B6</color>
+    <color name="azulL">#208C8C</color>
+    <color name="negro">#000</color>
+    <color name="blanco">#fff</color>
+
+    <!--- colores ingresar-->
+
+</resources>
